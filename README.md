@@ -62,7 +62,8 @@ Negative Tweets
 ![Unknown-4](https://github.com/chamolipallav/NLP-Sentiment-Analysis-Covid-19/assets/100506830/2e8056fc-ead1-4b0f-ae5a-9186c3f8e8df)
 
 Positive Tweets
-![Unknown-3](https://github.com/chamolipallav/NLP-Sentiment-Analysis-Covid-19/assets/100506830/5c07680b-75c2-4df4-a847-b4f42f9906b3
+![Unknown-3](https://github.com/chamolipallav/NLP-Sentiment-Analysis-Covid-19/assets/100506830/ed2533e8-ed45-455d-b54c-7173bd910a5f)
+
 
 # Machine Learning algorithm 
 
